@@ -1,12 +1,9 @@
-jtitle: "zhoubin's blog"
-jemail: "kyozhou@sina.com"
-#jdescription: >- # this means to ignore newlines until "baseurl:"
-#j  Write an awesome description for your new site here. You can edit this
-#j  line in _config.yml. It will appear in your document head meta (for
-#j  Google search results) and in your feed.xml site description.
-jbaseurl: "" # the subpath of your site, e.g. /blog
-jurl: "" # the base hostname & protocol for your site, e.g. http://example.com
-jgithub_username:  kyozhou
+title: "blog"
+email: "kyozhou@sina.com"
+description: Full Stack Engineer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  kyozhou
 
 # Build settings
 theme: minima

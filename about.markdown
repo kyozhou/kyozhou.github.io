@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+  1. 10年互联网产品/系统研发经验、6年技术架构（SOA、微服务）经验、5年团队管理经验
+  2. 从事过云计算、O2O，近4年深耕于IoT行业
+  3. 拥有极强的项目落地能力
+  4. 注重英语听说读写的学习，可无障碍阅读英语文档、论坛、新闻
